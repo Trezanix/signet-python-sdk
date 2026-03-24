@@ -10,3 +10,12 @@ __pycache__/
 # IDEs
 .vscode/
 .idea/
+
+# Distribution files
+signet_sdk.egg-info/
+
+# License files
+license.cert
+
+# Environment variables
+.env
